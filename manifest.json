@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "Developer Tools Caido Website Tab",
+  "version": "1.0",
+  "description": "Display Caido website inside DevTools panel",
+  "permissions": ["activeTab"],
+  "devtools_page": "devtools.html"
+}
